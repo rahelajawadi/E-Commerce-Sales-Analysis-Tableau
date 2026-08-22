@@ -5,6 +5,9 @@
 
 This project analyzes e-commerce sales data to explore sales performance, customer purchasing patterns, and key business trends through interactive Tableau visualizations.
 
+Dashboard Exhibit 1: 
+![Original dashboard]()
+
 ## Highlights
 
 - **Sales Analysis**
